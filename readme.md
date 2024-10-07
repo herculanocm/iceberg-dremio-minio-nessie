@@ -31,5 +31,3 @@ There are three folders in this repo mapped specifically to the spark/notebook c
 - `datasets` use this for any sample datasets
 - `notebooks` for storing notebooks
 - `warehouse` to be used as a warehouse for written data
-
-[Find Guides and Tutorials Here](https://github.com/developer-advocacy-dremio/quick-guides-from-dremio)
